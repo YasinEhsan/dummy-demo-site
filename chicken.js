@@ -1,4 +1,4 @@
 
-const legs = 2
+const legs = 4
 
 const breastsEaten = 10
